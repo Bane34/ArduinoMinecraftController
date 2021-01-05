@@ -22,7 +22,7 @@ public class ArduinoControll implements Listener {
     
     private OutputStream output = null;
     SerialPort serialPort;
-    private final String PORT = "COM4"; //Set your arduino por here, in my case, the COM$
+    private final String PORT = "COM4"; //Set your arduino por here, in my case, the COM4
     private static final int TIMEOUT = 2000; //Ms
     private static final int DATA_RATE = 9600;
     

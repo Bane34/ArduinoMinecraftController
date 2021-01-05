@@ -1,0 +1,8 @@
+Step 1:
+Paste the library RXTXcoom.jar in C:\Program Files\Java\jdk1.8.\jre\lib\ext
+
+Step 2:
+Paste the file rxtxSerial.dll in C:\Program Files\Java\jdk1.8.0_121\jre\bin
+
+import the libraries rxtxt.jar amd spigot-1.16.4 to the project
+
